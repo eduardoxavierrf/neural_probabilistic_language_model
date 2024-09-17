@@ -1,6 +1,8 @@
 # Implementação NumPy do Modelo de Linguagem Probabilístico Neural
 
-Este repositório contém uma implementação do Modelo de Linguagem Probabilístico Neural proposto por Yoshua Bengio et al. no artigo "A Neural Probabilistic Language Model" (2003). A implementação é feita usando apenas NumPy para fins educacionais e de compreensão profunda da arquitetura do modelo. Esse artigo foi muito importante na introdução da embedding layer. Minha implementação foi treinada no texto Dom Casmurro de Machado de Assis.
+Este repositório apresenta uma implementação do Modelo de Linguagem Probabilístico Neural proposto por Yoshua Bengio e colaboradores no artigo "A Neural Probabilistic Language Model" (2003). O código é desenvolvido exclusivamente em NumPy, com o objetivo de proporcionar uma compreensão mais profunda da arquitetura do modelo. Embora o uso de frameworks como PyTorch ou TensorFlow tornasse a implementação mais fácil e otimizada, eles introduzem um nível de abstração que pode dificultar o entendimento dos conceitos fundamentais.
+
+Este artigo é reconhecido por sua contribuição significativa à introdução da camada de embeddings. A implementação neste repositório foi treinada utilizando o texto "Dom Casmurro" de Machado de Assis.
 
 ## Uso
 
